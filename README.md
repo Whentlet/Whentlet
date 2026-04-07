@@ -11,6 +11,8 @@ I'm a passionate Senior AI/ML Engineer based in San Francisco, CA, USA, speciali
 - **AI-Powered Fraud Detection**: Developing real-time anomaly detection and supervised learning models to combat financial fraud.
 - **NLP Sentiment Analysis Engine**: Building robust NLP models for sentiment classification using deep learning frameworks.
 - **Computer Vision Object Detection**: Implementing real-time object detection systems for various applications.
+- **Reinforcement Learning Trading Bot**: Developing autonomous trading strategies using DRL.
+- **Generative AI Image Synthesizer**: Exploring text-to-image generation with Diffusion Models.
 
 --- 
 
@@ -18,11 +20,11 @@ I'm a passionate Senior AI/ML Engineer based in San Francisco, CA, USA, speciali
 
 | Category | Technologies |
 | :------- | :----------- |
-| **Languages** | Python, R, Julia |
-| **ML/DL Frameworks** | TensorFlow, PyTorch, Keras, Scikit-learn |
-| **Data Processing** | Pandas, NumPy, Apache Spark, Kafka |
-| **Cloud Platforms** | AWS, Google Cloud Platform (GCP) |
-| **Tools & Platforms** | Docker, Kubernetes, Git, Jupyter, VS Code |
+| **Languages** | Python, R, Julia, C++, SQL |
+| **ML/DL Frameworks** | TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost |
+| **Data Processing** | Pandas, NumPy, Apache Spark, Kafka, Dask |
+| **Cloud Platforms** | AWS (SageMaker, EC2, S3), GCP (Vertex AI), Azure |
+| **Tools & Platforms** | Docker, Kubernetes, Git, Jupyter, VS Code, MLflow |
 
 --- 
 
@@ -35,8 +37,6 @@ I'm a passionate Senior AI/ML Engineer based in San Francisco, CA, USA, speciali
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whentlet&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Whentlet&layout=compact&theme=radical)
 
 ---
 
